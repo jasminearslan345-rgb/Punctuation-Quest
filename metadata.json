@@ -1,0 +1,6 @@
+{
+  "name": "Punctuation Quest",
+  "description": "An immersive gamified punctuation learning platform for elementary students with timed challenges, sound effects, leaderboards, profile tracking, monthly reports, and teacher admin portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
